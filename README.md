@@ -12,9 +12,11 @@ The game consists of a single level with multiple zones and puzzles. Players sta
 
 Instructions: Best played on a controller.
 Left stick to move and steer
+
 Right stick to manipulate camera
 
 Right trigger to boost
+
 Right bumper to brake
 
 A to exit out of image screens.
